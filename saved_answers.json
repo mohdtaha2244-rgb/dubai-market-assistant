@@ -1,0 +1,14 @@
+{
+  "how many us$10 million+ homes were sold in q1 2026": {
+    "answer": "In Q1 2026, there were 193 sales transactions over US$ 10 million (page 2).",
+    "model": "gemini-3.6-flash, 24 Nov 2026"
+  },
+  "which community has the biggest pipeline supply": {
+    "answer": "Jumeirah Village Circle has the biggest pipeline supply, with 35,780 units (page 2, page 3).",
+    "model": "gemini-3.6-flash, 24 Nov 2026"
+  },
+  "how much did prices rise on palm jumeirah": {
+    "answer": "Prices on Palm Jumeirah reached AED 4,525 psf in Q1 2026, representing a 19% year-on-year increase (page 2).",
+    "model": "gemini-3.6-flash, 24 Nov 2026"
+  }
+}
